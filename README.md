@@ -84,4 +84,10 @@ Following these steps will guide you through setting up the project on your loca
 
 This project is licensed under the [Apache-2.0](LICENSE).
 
+### Screenshots:
+
+![Homepage](SCREENSHOTS/HOME.png)
+![Player Information](https://example.com/screenshots/player_info.png)
+
+
 ---
