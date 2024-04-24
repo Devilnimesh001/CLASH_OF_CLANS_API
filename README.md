@@ -84,15 +84,18 @@ Following these steps will guide you through setting up the project on your loca
 
 This project is licensed under the [Apache-2.0](LICENSE).
 
-## Screenshots:
+## Screenshots
 
--Homepage
+Home page
 
 ![Homepage](https://github.com/Devilnimesh001/CLASH_OF_CLANS_API/blob/main/SCREENSHOTS/HOME.PNG?raw=true)
 
--Stats
+Stats page
 
-![Stats](https://example.com/screenshots/player_info.png)
+![Stats](https://github.com/Devilnimesh001/CLASH_OF_CLANS_API/blob/main/SCREENSHOTS/STATS.PNG?raw=true)
 
+Player information page
+
+![Player_Information](https://github.com/Devilnimesh001/CLASH_OF_CLANS_API/blob/main/SCREENSHOTS/PLAYER_STATUS.PNG?raw=true)
 
 ---
