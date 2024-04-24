@@ -45,7 +45,7 @@ Got it! Here's the revised installation instruction with the added step:
 
 Following these steps will guide you through setting up the project on your local machine using XAMPP or WAMPP. 
 
-## Instructions:
+## Instructions
 1. **Open the Web Application:**
     - Launch the web application in your preferred web browser.
 
@@ -58,7 +58,7 @@ Following these steps will guide you through setting up the project on your loca
 4. **View Player Data:**
     - Once the data is fetched, view the player's information displayed on the webpage. This includes town hall level, experience level, trophies, best trophies, builder hall level, and details about heroes, troops, and spells levels.
 
-## Technologies Used:
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
