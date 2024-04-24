@@ -44,6 +44,30 @@ Got it! Here's the revised installation instruction with the added step:
 
 Following these steps will guide you through setting up the project on your local machine using XAMPP or WAMPP. 
 
+### Instructions:
+1. **Open the Web Application:**
+    - Launch the web application in your preferred web browser.
+
+2. **Enter Player Tag:**
+    - Input a Clash of Clans player tag into the designated input field. Note: Do not include the '#' symbol.
+
+3. **Check Player Information:**
+    - Click on the "CHECK" button to retrieve the player's information.
+
+4. **View Player Data:**
+    - Once the data is fetched, view the player's information displayed on the webpage. This includes town hall level, experience level, trophies, best trophies, builder hall level, and details about heroes, troops, and spells levels.
+
+### Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- XAMPP or WAMPP
+- Visual Studio Code or NetBeans
+- Git Bash
+- ChatGPT
+- Clash of Clans API
+
 ## Usage
 
 1. Open the web application in your browser.
