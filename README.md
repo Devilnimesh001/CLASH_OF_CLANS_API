@@ -69,17 +69,7 @@ Following these steps will guide you through setting up the project on your loca
 - ChatGPT
 - Clash of Clans API
 
-## Usage
-
-1. Open the web application in your browser.
-
-2. Enter a Clash of Clans player tag into the input field.
-
-3. Click on the "Fetch Player Information" button.
-
-4. View the fetched player information, including town hall level, experience level, trophies, best trophies, builder hall level, and details about heroes, troops, and spells levels.
-
-## License
+# License
 
 This project is licensed under the [MIT License](LICENSE).
 
