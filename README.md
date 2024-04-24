@@ -4,6 +4,8 @@
 
 This web application allows users to input a Clash of Clans player tag and fetch real-time player information, including details about their heroes, troops, and spells levels.
 
+For better experience run this web application in desktop.
+
 ## Viewing the Project in the Master Branch
 
 If you're viewing this README file, you've accessed the project's repository. To see the contents of the master branch, navigate to the main repository page. Alternatively, you can click on the "Code" tab at the top of this page and select "Branch: master" from the dropdown menu to switch to the master branch.
