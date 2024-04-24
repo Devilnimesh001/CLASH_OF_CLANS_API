@@ -8,7 +8,6 @@ This web application allows users to input a Clash of Clans player tag and fetch
 
 - [Installation](#installation)
 - [Instructions](#instructions)
-- [Technologies Used](#technologies used)
 - [Usage](#usage)
 - [License](#license)
 
