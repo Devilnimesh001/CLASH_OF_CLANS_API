@@ -19,7 +19,6 @@ Once you've switched to the master branch, you can explore the project files and
 
 - [Installation](#installation)
 - [Instructions](#instructions)
-- [Usage](#usage)
 - [License](#license)
 
 ## Installation
