@@ -86,7 +86,7 @@ This project is licensed under the [Apache-2.0](LICENSE).
 
 ### Screenshots:
 
-![Homepage]([CLASH_OF_CLANS_API/tree/main/SCREENSHOTS](https://github.com/Devilnimesh001/CLASH_OF_CLANS_API/blob/main/SCREENSHOTS/HOME.PNG))
+![Homepage](https://github.com/Devilnimesh001/CLASH_OF_CLANS_API/blob/main/SCREENSHOTS/HOME.PNG?raw=true)
 ![Player Information](https://example.com/screenshots/player_info.png)
 
 
