@@ -8,7 +8,6 @@
 </head>
 <body>
 
-
     <div class="banner">
         <video autoplay muted loop class="back-video" plays-inline>
             <source src="sound/Clash_Of_Clans_Movie_-__Animation_video__Funny_(1080p).mp4">
