@@ -1,4 +1,3 @@
----
 
 This project aims to provide a comprehensive web application utilizing HTML, CSS, JavaScript, PHP, and the Clash of Clans API. The application allows users to input a player tag via a form and fetches real-time player information, including details about heroes, troops, and spells levels, from the Clash of Clans API. 
 
@@ -14,4 +13,3 @@ The main features of the project include:
 
 This project not only serves as a practical tool for accessing Clash of Clans player data but also demonstrates proficiency in web development technologies and API integration. With a passion for Clash of Clans and a commitment to delivering high-quality web applications, this project showcases creativity, technical skills, and dedication to excellence.
 
----
