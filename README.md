@@ -69,10 +69,8 @@ Following these steps will guide you through setting up the project on your loca
 - ChatGPT
 - Clash of Clans API
 
-# License
+## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache-2.0](LICENSE).
 
 ---
-
-Feel free to customize this README template further if needed. If you have any questions or need further assistance, feel free to ask!
