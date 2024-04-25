@@ -99,4 +99,8 @@ This project is licensed under the [Apache-2.0](LICENSE).
 
 ![Player_Information](https://github.com/Devilnimesh001/CLASH_OF_CLANS_API/blob/main/SCREENSHOTS/PLAYER_STATUS.PNG?raw=true)
 
+## Linkedin post
+
+https://www.linkedin.com/posts/naganimesh-s-085b532a2_clashofclans-supercell-clashofclans-activity-7188566900870733824-wOe0?utm_source=share&utm_medium=member_android
+
 ---
